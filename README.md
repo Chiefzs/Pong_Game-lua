@@ -23,4 +23,4 @@ A classic Pong clone built with **Lua** and the **LÖVE (Love2D)** framework. Th
 1. Make sure you have [LÖVE](https://love2d.org/) installed on your computer.
 2. Clone this repository:
    ```bash
-   git clone [https://github.com/Chiefzs/Pong_Game-lua.git](https://github.com/Chiefzs/Pong_Game-lua)
+   git clone https://github.com/Chiefzs/Pong_Game-lua.git
